@@ -1,0 +1,322 @@
+{
+  "timestamp": "2026-02-18T22:36:00.171581+05:30",
+  "scrape_start": "2026-02-18T22:36:00.171581+05:30",
+  "scrape_count": 45,
+  "success_count": 1,
+  "error_count": 44,
+  "crops": {
+    "onion": {
+      "marathi": "कांदा",
+      "english": "Onion",
+      "local": {
+        "Lasalgaon": {
+          "arrival_date": "16/02/2026",
+          "variety": "Red",
+          "min_price": 600,
+          "max_price": 1425,
+          "modal_price": 1170,
+          "avg_price": 1170,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/onion/maharashtra/lasalgaon",
+          "scraped_at": "2026-02-18T22:37:01.883494+05:30"
+        },
+        "Nashik": {
+          "error": "no_fresh_data",
+          "market": "Nashik"
+        },
+        "Pune": {
+          "error": "max_retries_exceeded",
+          "market": "Pune",
+          "attempts": 1
+        },
+        "Sangamner": {
+          "error": "max_retries_exceeded",
+          "market": "Sangamner",
+          "attempts": 1
+        }
+      },
+      "outstate": {
+        "Delhi": {
+          "error": "max_retries_exceeded",
+          "market": "Delhi",
+          "attempts": 1
+        },
+        "Indore": {
+          "error": "max_retries_exceeded",
+          "market": "Indore",
+          "attempts": 1
+        }
+      }
+    },
+    "soyabean": {
+      "marathi": "सोयाबीन",
+      "english": "Soybean",
+      "local": {
+        "Latur": {
+          "error": "max_retries_exceeded",
+          "market": "Latur",
+          "attempts": 1
+        },
+        "Pune": {
+          "error": "max_retries_exceeded",
+          "market": "Pune",
+          "attempts": 1
+        },
+        "Solapur": {
+          "error": "max_retries_exceeded",
+          "market": "Solapur",
+          "attempts": 1
+        }
+      },
+      "outstate": {
+        "Indore": {
+          "error": "max_retries_exceeded",
+          "market": "Indore",
+          "attempts": 1
+        },
+        "Neemuch": {
+          "error": "max_retries_exceeded",
+          "market": "Neemuch",
+          "attempts": 1
+        }
+      }
+    },
+    "cotton": {
+      "marathi": "कापूस",
+      "english": "Cotton",
+      "local": {
+        "Nagpur": {
+          "error": "max_retries_exceeded",
+          "market": "Nagpur",
+          "attempts": 1
+        },
+        "Jalgaon": {
+          "error": "max_retries_exceeded",
+          "market": "Jalgaon",
+          "attempts": 1
+        },
+        "Ahmednagar": {
+          "error": "max_retries_exceeded",
+          "market": "Ahmednagar",
+          "attempts": 1
+        }
+      },
+      "outstate": {
+        "Rajkot": {
+          "error": "max_retries_exceeded",
+          "market": "Rajkot",
+          "attempts": 1
+        },
+        "Surat": {
+          "error": "max_retries_exceeded",
+          "market": "Surat",
+          "attempts": 1
+        }
+      }
+    },
+    "maize": {
+      "marathi": "मका",
+      "english": "Maize",
+      "local": {
+        "Pune": {
+          "error": "max_retries_exceeded",
+          "market": "Pune",
+          "attempts": 1
+        },
+        "Nashik": {
+          "error": "max_retries_exceeded",
+          "market": "Nashik",
+          "attempts": 1
+        },
+        "Solapur": {
+          "error": "max_retries_exceeded",
+          "market": "Solapur",
+          "attempts": 1
+        }
+      },
+      "outstate": {
+        "Delhi": {
+          "error": "max_retries_exceeded",
+          "market": "Delhi",
+          "attempts": 1
+        },
+        "Gulbarga": {
+          "error": "max_retries_exceeded",
+          "market": "Gulbarga",
+          "attempts": 1
+        }
+      }
+    },
+    "wheat": {
+      "marathi": "गहू",
+      "english": "Wheat",
+      "local": {
+        "Pune": {
+          "error": "max_retries_exceeded",
+          "market": "Pune",
+          "attempts": 1
+        },
+        "Solapur": {
+          "error": "max_retries_exceeded",
+          "market": "Solapur",
+          "attempts": 1
+        },
+        "Ahmednagar": {
+          "error": "max_retries_exceeded",
+          "market": "Ahmednagar",
+          "attempts": 1
+        }
+      },
+      "outstate": {
+        "Delhi": {
+          "error": "max_retries_exceeded",
+          "market": "Delhi",
+          "attempts": 1
+        },
+        "Indore": {
+          "error": "max_retries_exceeded",
+          "market": "Indore",
+          "attempts": 1
+        }
+      }
+    },
+    "arhar-turred-gram-whole": {
+      "marathi": "तूर",
+      "english": "Tur",
+      "local": {
+        "Latur": {
+          "error": "max_retries_exceeded",
+          "market": "Latur",
+          "attempts": 1
+        },
+        "Pune": {
+          "error": "max_retries_exceeded",
+          "market": "Pune",
+          "attempts": 1
+        },
+        "Solapur": {
+          "error": "max_retries_exceeded",
+          "market": "Solapur",
+          "attempts": 1
+        }
+      },
+      "outstate": {
+        "Gulbarga": {
+          "error": "max_retries_exceeded",
+          "market": "Gulbarga",
+          "attempts": 1
+        },
+        "Indore": {
+          "error": "max_retries_exceeded",
+          "market": "Indore",
+          "attempts": 1
+        }
+      }
+    },
+    "bengal-gram-gram-whole": {
+      "marathi": "हरभरा",
+      "english": "Harbara",
+      "local": {
+        "Pune": {
+          "error": "max_retries_exceeded",
+          "market": "Pune",
+          "attempts": 1
+        },
+        "Latur": {
+          "error": "max_retries_exceeded",
+          "market": "Latur",
+          "attempts": 1
+        },
+        "Solapur": {
+          "error": "max_retries_exceeded",
+          "market": "Solapur",
+          "attempts": 1
+        }
+      },
+      "outstate": {
+        "Indore": {
+          "error": "max_retries_exceeded",
+          "market": "Indore",
+          "attempts": 1
+        },
+        "Delhi": {
+          "error": "max_retries_exceeded",
+          "market": "Delhi",
+          "attempts": 1
+        }
+      }
+    },
+    "tomato": {
+      "marathi": "टोमॅटो",
+      "english": "Tomato",
+      "local": {
+        "Pune": {
+          "error": "max_retries_exceeded",
+          "market": "Pune",
+          "attempts": 1
+        },
+        "Nashik": {
+          "error": "max_retries_exceeded",
+          "market": "Nashik",
+          "attempts": 1
+        },
+        "Mumbai": {
+          "error": "max_retries_exceeded",
+          "market": "Mumbai",
+          "attempts": 1
+        }
+      },
+      "outstate": {
+        "Delhi": {
+          "error": "max_retries_exceeded",
+          "market": "Delhi",
+          "attempts": 1
+        },
+        "Bangalore": {
+          "error": "max_retries_exceeded",
+          "market": "Bangalore",
+          "attempts": 1
+        }
+      }
+    },
+    "pomegranate": {
+      "marathi": "डाळिंब",
+      "english": "Pomegranate",
+      "local": {
+        "Pune": {
+          "error": "max_retries_exceeded",
+          "market": "Pune",
+          "attempts": 1
+        },
+        "Solapur": {
+          "error": "max_retries_exceeded",
+          "market": "Solapur",
+          "attempts": 1
+        },
+        "Nashik": {
+          "error": "max_retries_exceeded",
+          "market": "Nashik",
+          "attempts": 1
+        }
+      },
+      "outstate": {
+        "Delhi": {
+          "error": "max_retries_exceeded",
+          "market": "Delhi",
+          "attempts": 1
+        }
+      }
+    }
+  },
+  "timed_out": true,
+  "scrape_end": "2026-02-18T22:57:11.268818+05:30",
+  "duration_seconds": 1271.1,
+  "success_rate": 2.22,
+  "data_checksum": "4768f834e4344d184d1432918890e6a0",
+  "metadata": {
+    "scraper_version": "1.0.0",
+    "total_crops": 13,
+    "total_markets_per_crop": 4,
+    "expected_scrape_count": 64
+  }
+}
