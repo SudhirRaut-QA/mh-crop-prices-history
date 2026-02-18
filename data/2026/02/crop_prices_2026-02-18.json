@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-18T22:36:00.171581+05:30",
-  "scrape_start": "2026-02-18T22:36:00.171581+05:30",
+  "timestamp": "2026-02-18T23:33:03.909913+05:30",
+  "scrape_start": "2026-02-18T23:33:03.909913+05:30",
   "scrape_count": 45,
-  "success_count": 1,
-  "error_count": 44,
+  "success_count": 8,
+  "error_count": 37,
   "crops": {
     "onion": {
       "marathi": "कांदा",
@@ -18,33 +18,43 @@
           "avg_price": 1170,
           "unit": "Rs/Quintal",
           "url": "https://www.commodityonline.com/mandiprices/onion/maharashtra/lasalgaon",
-          "scraped_at": "2026-02-18T22:37:01.883494+05:30"
+          "scraped_at": "2026-02-18T23:33:37.000287+05:30"
         },
         "Nashik": {
           "error": "no_fresh_data",
           "market": "Nashik"
         },
         "Pune": {
-          "error": "max_retries_exceeded",
-          "market": "Pune",
-          "attempts": 1
+          "arrival_date": "15/02/2026",
+          "variety": "Local",
+          "min_price": 500,
+          "max_price": 1500,
+          "modal_price": 1000,
+          "avg_price": 1000,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/onion/maharashtra/pune",
+          "scraped_at": "2026-02-18T23:34:05.699049+05:30"
         },
         "Sangamner": {
-          "error": "max_retries_exceeded",
-          "market": "Sangamner",
-          "attempts": 1
+          "arrival_date": "16/02/2026",
+          "variety": "Red",
+          "min_price": 151,
+          "max_price": 1525,
+          "modal_price": 838,
+          "avg_price": 838,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/onion/maharashtra/sangamner",
+          "scraped_at": "2026-02-18T23:34:20.198735+05:30"
         }
       },
       "outstate": {
         "Delhi": {
-          "error": "max_retries_exceeded",
-          "market": "Delhi",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Delhi"
         },
         "Indore": {
-          "error": "max_retries_exceeded",
-          "market": "Indore",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Indore"
         }
       }
     },
@@ -53,19 +63,23 @@
       "english": "Soybean",
       "local": {
         "Latur": {
-          "error": "max_retries_exceeded",
-          "market": "Latur",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Latur"
         },
         "Pune": {
-          "error": "max_retries_exceeded",
-          "market": "Pune",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Pune"
         },
         "Solapur": {
-          "error": "max_retries_exceeded",
-          "market": "Solapur",
-          "attempts": 1
+          "arrival_date": "16/02/2026",
+          "variety": "Other",
+          "min_price": 5330,
+          "max_price": 5365,
+          "modal_price": 5335,
+          "avg_price": 5335,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/soyabean/maharashtra/solapur",
+          "scraped_at": "2026-02-18T23:35:34.495692+05:30"
         }
       },
       "outstate": {
@@ -86,31 +100,26 @@
       "english": "Cotton",
       "local": {
         "Nagpur": {
-          "error": "max_retries_exceeded",
-          "market": "Nagpur",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Nagpur"
         },
         "Jalgaon": {
-          "error": "max_retries_exceeded",
-          "market": "Jalgaon",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Jalgaon"
         },
         "Ahmednagar": {
-          "error": "max_retries_exceeded",
-          "market": "Ahmednagar",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Ahmednagar"
         }
       },
       "outstate": {
         "Rajkot": {
-          "error": "max_retries_exceeded",
-          "market": "Rajkot",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Rajkot"
         },
         "Surat": {
-          "error": "max_retries_exceeded",
-          "market": "Surat",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Surat"
         }
       }
     },
@@ -119,31 +128,33 @@
       "english": "Maize",
       "local": {
         "Pune": {
-          "error": "max_retries_exceeded",
-          "market": "Pune",
-          "attempts": 1
+          "arrival_date": "18/02/2026",
+          "variety": "Deshi Red",
+          "min_price": 2700,
+          "max_price": 3000,
+          "modal_price": 2850,
+          "avg_price": 2850,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/maize/maharashtra/pune",
+          "scraped_at": "2026-02-18T23:37:56.900747+05:30"
         },
         "Nashik": {
-          "error": "max_retries_exceeded",
-          "market": "Nashik",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Nashik"
         },
         "Solapur": {
-          "error": "max_retries_exceeded",
-          "market": "Solapur",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Solapur"
         }
       },
       "outstate": {
         "Delhi": {
-          "error": "max_retries_exceeded",
-          "market": "Delhi",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Delhi"
         },
         "Gulbarga": {
-          "error": "max_retries_exceeded",
-          "market": "Gulbarga",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Gulbarga"
         }
       }
     },
@@ -162,21 +173,18 @@
           "attempts": 1
         },
         "Ahmednagar": {
-          "error": "max_retries_exceeded",
-          "market": "Ahmednagar",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Ahmednagar"
         }
       },
       "outstate": {
         "Delhi": {
-          "error": "max_retries_exceeded",
-          "market": "Delhi",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Delhi"
         },
         "Indore": {
-          "error": "max_retries_exceeded",
-          "market": "Indore",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Indore"
         }
       }
     },
@@ -185,26 +193,22 @@
       "english": "Tur",
       "local": {
         "Latur": {
-          "error": "max_retries_exceeded",
-          "market": "Latur",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Latur"
         },
         "Pune": {
-          "error": "max_retries_exceeded",
-          "market": "Pune",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Pune"
         },
         "Solapur": {
-          "error": "max_retries_exceeded",
-          "market": "Solapur",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Solapur"
         }
       },
       "outstate": {
         "Gulbarga": {
-          "error": "max_retries_exceeded",
-          "market": "Gulbarga",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Gulbarga"
         },
         "Indore": {
           "error": "max_retries_exceeded",
@@ -218,31 +222,40 @@
       "english": "Harbara",
       "local": {
         "Pune": {
-          "error": "max_retries_exceeded",
-          "market": "Pune",
-          "attempts": 1
+          "arrival_date": "18/02/2026",
+          "variety": "Other",
+          "min_price": 6600,
+          "max_price": 7000,
+          "modal_price": 6800,
+          "avg_price": 6800,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/bengal-gram-gram-whole/maharashtra/pune",
+          "scraped_at": "2026-02-18T23:46:55.592936+05:30"
         },
         "Latur": {
-          "error": "max_retries_exceeded",
-          "market": "Latur",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Latur"
         },
         "Solapur": {
-          "error": "max_retries_exceeded",
-          "market": "Solapur",
-          "attempts": 1
+          "arrival_date": "16/02/2026",
+          "variety": "Other",
+          "min_price": 4500,
+          "max_price": 5140,
+          "modal_price": 5060,
+          "avg_price": 5060,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/bengal-gram-gram-whole/maharashtra/solapur",
+          "scraped_at": "2026-02-18T23:47:31.699788+05:30"
         }
       },
       "outstate": {
         "Indore": {
-          "error": "max_retries_exceeded",
-          "market": "Indore",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Indore"
         },
         "Delhi": {
-          "error": "max_retries_exceeded",
-          "market": "Delhi",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Delhi"
         }
       }
     },
@@ -256,26 +269,29 @@
           "attempts": 1
         },
         "Nashik": {
-          "error": "max_retries_exceeded",
-          "market": "Nashik",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Nashik"
         },
         "Mumbai": {
-          "error": "max_retries_exceeded",
-          "market": "Mumbai",
-          "attempts": 1
+          "arrival_date": "18/02/2026",
+          "variety": "Other",
+          "min_price": 2000,
+          "max_price": 2400,
+          "modal_price": 2200,
+          "avg_price": 2200,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/tomato/maharashtra/mumbai",
+          "scraped_at": "2026-02-18T23:49:48.594744+05:30"
         }
       },
       "outstate": {
         "Delhi": {
-          "error": "max_retries_exceeded",
-          "market": "Delhi",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Delhi"
         },
         "Bangalore": {
-          "error": "max_retries_exceeded",
-          "market": "Bangalore",
-          "attempts": 1
+          "error": "no_fresh_data",
+          "market": "Bangalore"
         }
       }
     },
@@ -309,10 +325,10 @@
     }
   },
   "timed_out": true,
-  "scrape_end": "2026-02-18T22:57:11.268818+05:30",
-  "duration_seconds": 1271.1,
-  "success_rate": 2.22,
-  "data_checksum": "4768f834e4344d184d1432918890e6a0",
+  "scrape_end": "2026-02-18T23:53:11.803512+05:30",
+  "duration_seconds": 1207.89,
+  "success_rate": 17.78,
+  "data_checksum": "d38d456a478dd14a29cd001892b62e66",
   "metadata": {
     "scraper_version": "1.0.0",
     "total_crops": 13,
