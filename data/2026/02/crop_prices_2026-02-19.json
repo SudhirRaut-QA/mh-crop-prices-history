@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-02-19T11:27:56.958828+05:30",
-  "scrape_start": "2026-02-19T11:27:56.958828+05:30",
-  "scrape_count": 80,
-  "success_count": 4,
-  "error_count": 76,
+  "timestamp": "2026-02-19T17:45:00.009578+05:30",
+  "scrape_start": "2026-02-19T17:45:00.009578+05:30",
+  "scrape_count": 145,
+  "success_count": 25,
+  "error_count": 120,
   "crops": {
     "onion": {
       "marathi": "कांदा",
@@ -22,7 +22,7 @@
           "avg_price": 838,
           "unit": "Rs/Quintal",
           "url": "https://www.commodityonline.com/mandiprices/onion/maharashtra/sangamner",
-          "scraped_at": "2026-02-19T11:29:44.018410+05:30"
+          "scraped_at": "2026-02-19T17:46:35.122608+05:30"
         },
         "Lasalgaon": {
           "arrival_date": "16/02/2026",
@@ -33,12 +33,18 @@
           "avg_price": 1170,
           "unit": "Rs/Quintal",
           "url": "https://www.commodityonline.com/mandiprices/onion/maharashtra/lasalgaon",
-          "scraped_at": "2026-02-19T11:30:10.522492+05:30"
+          "scraped_at": "2026-02-19T17:46:50.125811+05:30"
         },
         "Pune": {
-          "error": "no_fresh_data",
-          "market": "Pune",
-          "table_rows": 10
+          "arrival_date": "19/02/2026",
+          "variety": "Local",
+          "min_price": 400,
+          "max_price": 1400,
+          "modal_price": 900,
+          "avg_price": 900,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/onion/maharashtra/pune",
+          "scraped_at": "2026-02-19T17:47:05.222923+05:30"
         },
         "Solapur": {
           "arrival_date": "16/02/2026",
@@ -49,7 +55,7 @@
           "avg_price": 800,
           "unit": "Rs/Quintal",
           "url": "https://www.commodityonline.com/mandiprices/onion/maharashtra/solapur",
-          "scraped_at": "2026-02-19T11:30:54.223906+05:30"
+          "scraped_at": "2026-02-19T17:47:19.927616+05:30"
         },
         "Nashik": {
           "error": "no_fresh_data",
@@ -59,9 +65,8 @@
       },
       "outstate": {
         "Delhi": {
-          "error": "no_fresh_data",
-          "market": "Delhi",
-          "table_rows": 10
+          "error": "timeout",
+          "market": "Delhi"
         },
         "Indore": {
           "error": "no_fresh_data",
@@ -83,37 +88,55 @@
           "avg_price": 5120,
           "unit": "Rs/Quintal",
           "url": "https://www.commodityonline.com/mandiprices/soyabean/maharashtra/ahilyanagar",
-          "scraped_at": "2026-02-19T11:31:57.824192+05:30"
+          "scraped_at": "2026-02-19T17:48:20.224851+05:30"
         },
         "Rahata": null,
         "Rahuri": null,
         "Alephata": null,
         "Sangamner": null,
         "Lasalgaon": {
-          "error": "timeout",
-          "market": "Lasalgaon"
+          "arrival_date": "16/02/2026",
+          "variety": "Other",
+          "min_price": 3601,
+          "max_price": 5400,
+          "modal_price": 5291,
+          "avg_price": 5291,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/soyabean/maharashtra/lasalgaon",
+          "scraped_at": "2026-02-19T17:49:38.716970+05:30"
         },
         "Pune": {
-          "error": "timeout",
-          "market": "Pune"
+          "error": "no_fresh_data",
+          "market": "Pune",
+          "table_rows": 10
         },
         "Solapur": {
-          "error": "timeout",
-          "market": "Solapur"
+          "arrival_date": "16/02/2026",
+          "variety": "Other",
+          "min_price": 5330,
+          "max_price": 5365,
+          "modal_price": 5335,
+          "avg_price": 5335,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/soyabean/maharashtra/solapur",
+          "scraped_at": "2026-02-19T17:50:06.217103+05:30"
         },
         "Latur": {
-          "error": "timeout",
-          "market": "Latur"
+          "error": "no_fresh_data",
+          "market": "Latur",
+          "table_rows": 10
         }
       },
       "outstate": {
         "Indore": {
-          "error": "timeout",
-          "market": "Indore"
+          "error": "no_fresh_data",
+          "market": "Indore",
+          "table_rows": 10
         },
         "Neemuch": {
-          "error": "timeout",
-          "market": "Neemuch"
+          "error": "no_fresh_data",
+          "market": "Neemuch",
+          "table_rows": 10
         }
       }
     },
@@ -132,12 +155,14 @@
           "table_rows": 10
         },
         "Pune": {
-          "error": "timeout",
-          "market": "Pune"
+          "error": "no_fresh_data",
+          "market": "Pune",
+          "table_rows": 10
         },
         "Solapur": {
-          "error": "timeout",
-          "market": "Solapur"
+          "error": "no_fresh_data",
+          "market": "Solapur",
+          "table_rows": 10
         },
         "Nagpur": {
           "error": "no_fresh_data",
@@ -145,8 +170,9 @@
           "table_rows": 10
         },
         "Jalgaon": {
-          "error": "timeout",
-          "market": "Jalgaon"
+          "error": "no_fresh_data",
+          "market": "Jalgaon",
+          "table_rows": 10
         }
       },
       "outstate": {
@@ -155,8 +181,9 @@
           "market": "Rajkot"
         },
         "Surat": {
-          "error": "timeout",
-          "market": "Surat"
+          "error": "no_fresh_data",
+          "market": "Surat",
+          "table_rows": 10
         }
       }
     },
@@ -164,7 +191,17 @@
       "marathi": "मका",
       "english": "Maize",
       "local": {
-        "Ahilyanagar": null,
+        "Ahilyanagar": {
+          "arrival_date": "18/02/2026",
+          "variety": "Maize",
+          "min_price": 1865,
+          "max_price": 1960,
+          "modal_price": 1960,
+          "avg_price": 1960,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/maize/maharashtra/ahilyanagar",
+          "scraped_at": "2026-02-19T17:53:42.225438+05:30"
+        },
         "Rahata": null,
         "Rahuri": null,
         "Alephata": null,
@@ -174,26 +211,37 @@
           "market": "Lasalgaon"
         },
         "Pune": {
-          "error": "timeout",
-          "market": "Pune"
+          "arrival_date": "18/02/2026",
+          "variety": "Deshi Red",
+          "min_price": 2700,
+          "max_price": 3000,
+          "modal_price": 2850,
+          "avg_price": 2850,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/maize/maharashtra/pune",
+          "scraped_at": "2026-02-19T17:55:12.325850+05:30"
         },
         "Solapur": {
-          "error": "timeout",
-          "market": "Solapur"
+          "error": "no_fresh_data",
+          "market": "Solapur",
+          "table_rows": 10
         },
         "Nashik": {
-          "error": "timeout",
-          "market": "Nashik"
+          "error": "no_fresh_data",
+          "market": "Nashik",
+          "table_rows": 10
         }
       },
       "outstate": {
         "Delhi": {
-          "error": "timeout",
-          "market": "Delhi"
+          "error": "no_fresh_data",
+          "market": "Delhi",
+          "table_rows": 10
         },
         "Gulbarga": {
-          "error": "timeout",
-          "market": "Gulbarga"
+          "error": "no_fresh_data",
+          "market": "Gulbarga",
+          "table_rows": 10
         }
       }
     },
@@ -201,32 +249,53 @@
       "marathi": "गहू",
       "english": "Wheat",
       "local": {
-        "Ahilyanagar": null,
+        "Ahilyanagar": {
+          "arrival_date": "18/02/2026",
+          "variety": "Wheat",
+          "min_price": 2670,
+          "max_price": 2860,
+          "modal_price": 2760,
+          "avg_price": 2760,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/wheat/maharashtra/ahilyanagar",
+          "scraped_at": "2026-02-19T17:56:19.019052+05:30"
+        },
         "Rahata": null,
         "Rahuri": null,
         "Alephata": null,
         "Sangamner": null,
         "Lasalgaon": {
-          "error": "timeout",
-          "market": "Lasalgaon"
+          "arrival_date": "16/02/2026",
+          "variety": "Local",
+          "min_price": 2425,
+          "max_price": 2731,
+          "modal_price": 2475,
+          "avg_price": 2475,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/wheat/maharashtra/lasalgaon",
+          "scraped_at": "2026-02-19T17:57:26.022584+05:30"
         },
         "Pune": {
-          "error": "timeout",
-          "market": "Pune"
+          "error": "no_fresh_data",
+          "market": "Pune",
+          "table_rows": 10
         },
         "Solapur": {
-          "error": "timeout",
-          "market": "Solapur"
+          "error": "max_retries_exceeded",
+          "market": "Solapur",
+          "attempts": 2
         }
       },
       "outstate": {
         "Delhi": {
-          "error": "timeout",
-          "market": "Delhi"
+          "error": "no_fresh_data",
+          "market": "Delhi",
+          "table_rows": 10
         },
         "Indore": {
-          "error": "timeout",
-          "market": "Indore"
+          "error": "no_fresh_data",
+          "market": "Indore",
+          "table_rows": 10
         }
       }
     },
@@ -234,7 +303,17 @@
       "marathi": "तूर",
       "english": "Tur",
       "local": {
-        "Ahilyanagar": null,
+        "Ahilyanagar": {
+          "arrival_date": "18/02/2026",
+          "variety": "Turarhar",
+          "min_price": 7765,
+          "max_price": 8020,
+          "modal_price": 8020,
+          "avg_price": 8020,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/arhar-turred-gram-whole/maharashtra/ahilyanagar",
+          "scraped_at": "2026-02-19T17:58:41.519106+05:30"
+        },
         "Rahata": null,
         "Rahuri": null,
         "Alephata": null,
@@ -244,26 +323,31 @@
           "market": "Lasalgaon"
         },
         "Pune": {
-          "error": "timeout",
-          "market": "Pune"
+          "error": "no_fresh_data",
+          "market": "Pune",
+          "table_rows": 10
         },
         "Solapur": {
-          "error": "timeout",
-          "market": "Solapur"
+          "error": "no_fresh_data",
+          "market": "Solapur",
+          "table_rows": 10
         },
         "Latur": {
-          "error": "timeout",
-          "market": "Latur"
+          "error": "no_fresh_data",
+          "market": "Latur",
+          "table_rows": 10
         }
       },
       "outstate": {
         "Gulbarga": {
-          "error": "timeout",
-          "market": "Gulbarga"
+          "error": "no_fresh_data",
+          "market": "Gulbarga",
+          "table_rows": 10
         },
         "Indore": {
-          "error": "timeout",
-          "market": "Indore"
+          "error": "no_fresh_data",
+          "market": "Indore",
+          "table_rows": 10
         }
       }
     },
@@ -271,36 +355,70 @@
       "marathi": "हरभरा",
       "english": "Harbara",
       "local": {
-        "Ahilyanagar": null,
+        "Ahilyanagar": {
+          "arrival_date": "18/02/2026",
+          "variety": "Chana Bengal Gram",
+          "min_price": 5570,
+          "max_price": 5825,
+          "modal_price": 5660,
+          "avg_price": 5660,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/bengal-gram-gram-whole/maharashtra/ahilyanagar",
+          "scraped_at": "2026-02-19T18:01:13.717814+05:30"
+        },
         "Rahata": null,
         "Rahuri": null,
         "Alephata": null,
         "Sangamner": null,
         "Lasalgaon": {
-          "error": "timeout",
-          "market": "Lasalgaon"
+          "arrival_date": "16/02/2026",
+          "variety": "Other",
+          "min_price": 3500,
+          "max_price": 5180,
+          "modal_price": 4500,
+          "avg_price": 4500,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/bengal-gram-gram-whole/maharashtra/lasalgaon",
+          "scraped_at": "2026-02-19T18:02:20.572754+05:30"
         },
         "Pune": {
-          "error": "timeout",
-          "market": "Pune"
+          "arrival_date": "18/02/2026",
+          "variety": "Other",
+          "min_price": 6600,
+          "max_price": 7000,
+          "modal_price": 6800,
+          "avg_price": 6800,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/bengal-gram-gram-whole/maharashtra/pune",
+          "scraped_at": "2026-02-19T18:02:32.539535+05:30"
         },
         "Solapur": {
-          "error": "timeout",
-          "market": "Solapur"
+          "arrival_date": "16/02/2026",
+          "variety": "Other",
+          "min_price": 4500,
+          "max_price": 5140,
+          "modal_price": 5060,
+          "avg_price": 5060,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/bengal-gram-gram-whole/maharashtra/solapur",
+          "scraped_at": "2026-02-19T18:02:45.925338+05:30"
         },
         "Latur": {
-          "error": "timeout",
-          "market": "Latur"
+          "error": "no_fresh_data",
+          "market": "Latur",
+          "table_rows": 10
         }
       },
       "outstate": {
         "Indore": {
-          "error": "timeout",
-          "market": "Indore"
+          "error": "no_fresh_data",
+          "market": "Indore",
+          "table_rows": 10
         },
         "Delhi": {
-          "error": "timeout",
-          "market": "Delhi"
+          "error": "no_fresh_data",
+          "market": "Delhi",
+          "table_rows": 10
         }
       }
     },
@@ -309,19 +427,300 @@
       "english": "Tomato",
       "local": {
         "Ahilyanagar": null,
+        "Rahata": {
+          "arrival_date": "19/02/2026",
+          "variety": "Other",
+          "min_price": 250,
+          "max_price": 1000,
+          "modal_price": 650,
+          "avg_price": 650,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/tomato/maharashtra/rahata",
+          "scraped_at": "2026-02-19T18:03:54.317571+05:30"
+        },
+        "Rahuri": {
+          "arrival_date": "18/02/2026",
+          "variety": "Other",
+          "min_price": 500,
+          "max_price": 1200,
+          "modal_price": 850,
+          "avg_price": 850,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/tomato/maharashtra/rahuri",
+          "scraped_at": "2026-02-19T18:04:12.325714+05:30"
+        },
+        "Alephata": null,
+        "Sangamner": {
+          "arrival_date": "16/02/2026",
+          "variety": "Other",
+          "min_price": 250,
+          "max_price": 1250,
+          "modal_price": 750,
+          "avg_price": 750,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/tomato/maharashtra/sangamner",
+          "scraped_at": "2026-02-19T18:04:37.530138+05:30"
+        },
+        "Lasalgaon": {
+          "error": "table_empty"
+        },
+        "Pune": {
+          "arrival_date": "19/02/2026",
+          "variety": "Local",
+          "min_price": 600,
+          "max_price": 1600,
+          "modal_price": 1100,
+          "avg_price": 1100,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/tomato/maharashtra/pune",
+          "scraped_at": "2026-02-19T18:05:04.104880+05:30"
+        },
+        "Solapur": {
+          "arrival_date": "16/02/2026",
+          "variety": "Other",
+          "min_price": 200,
+          "max_price": 1000,
+          "modal_price": 700,
+          "avg_price": 700,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/tomato/maharashtra/solapur",
+          "scraped_at": "2026-02-19T18:05:19.421863+05:30"
+        },
+        "Nashik": {
+          "error": "no_fresh_data",
+          "market": "Nashik",
+          "table_rows": 10
+        },
+        "Mumbai": {
+          "arrival_date": "18/02/2026",
+          "variety": "Other",
+          "min_price": 2000,
+          "max_price": 2400,
+          "modal_price": 2200,
+          "avg_price": 2200,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/tomato/maharashtra/mumbai",
+          "scraped_at": "2026-02-19T18:05:54.323271+05:30"
+        }
+      },
+      "outstate": {
+        "Delhi": {
+          "error": "no_fresh_data",
+          "market": "Delhi",
+          "table_rows": 10
+        },
+        "Bangalore": {
+          "error": "no_fresh_data",
+          "market": "Bangalore",
+          "table_rows": 10
+        }
+      }
+    },
+    "pomegranate": {
+      "marathi": "डाळिंब",
+      "english": "Pomegranate",
+      "local": {
+        "Ahilyanagar": null,
         "Rahata": null,
         "Rahuri": null,
         "Alephata": null,
-        "Sangamner": null
+        "Sangamner": null,
+        "Lasalgaon": {
+          "error": "no_fresh_data",
+          "market": "Lasalgaon",
+          "table_rows": 10
+        },
+        "Pune": {
+          "error": "no_fresh_data",
+          "market": "Pune",
+          "table_rows": 10
+        },
+        "Solapur": {
+          "arrival_date": "16/02/2026",
+          "variety": "Other",
+          "min_price": 5000,
+          "max_price": 21000,
+          "modal_price": 12000,
+          "avg_price": 12000,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/pomegranate/maharashtra/solapur",
+          "scraped_at": "2026-02-19T18:08:29.544869+05:30"
+        },
+        "Nashik": {
+          "error": "no_fresh_data",
+          "market": "Nashik",
+          "table_rows": 7
+        }
       },
-      "outstate": {}
+      "outstate": {
+        "Delhi": {
+          "error": "no_fresh_data",
+          "market": "Delhi",
+          "table_rows": 10
+        },
+        "Bangalore": {
+          "error": "no_fresh_data",
+          "market": "Bangalore",
+          "table_rows": 10
+        }
+      }
+    },
+    "garlic": {
+      "marathi": "लसूण",
+      "english": "Garlic",
+      "local": {
+        "Ahilyanagar": null,
+        "Rahata": {
+          "arrival_date": "19/02/2026",
+          "variety": "Other",
+          "min_price": 4000,
+          "max_price": 8000,
+          "modal_price": 6000,
+          "avg_price": 6000,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/garlic/maharashtra/rahata",
+          "scraped_at": "2026-02-19T18:09:46.226497+05:30"
+        },
+        "Rahuri": null,
+        "Alephata": null,
+        "Sangamner": null,
+        "Lasalgaon": {
+          "error": "no_fresh_data",
+          "market": "Lasalgaon",
+          "table_rows": 10
+        },
+        "Pune": {
+          "arrival_date": "19/02/2026",
+          "variety": "Other",
+          "min_price": 3000,
+          "max_price": 13000,
+          "modal_price": 8000,
+          "avg_price": 8000,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/garlic/maharashtra/pune",
+          "scraped_at": "2026-02-19T18:10:46.722265+05:30"
+        },
+        "Solapur": {
+          "error": "no_fresh_data",
+          "market": "Solapur",
+          "table_rows": 10
+        },
+        "Nashik": {
+          "error": "no_fresh_data",
+          "market": "Nashik",
+          "table_rows": 10
+        }
+      },
+      "outstate": {
+        "Delhi": {
+          "error": "no_main_table_found"
+        },
+        "Indore": {
+          "error": "no_main_table_found"
+        }
+      }
+    },
+    "marigold-calcutta": {
+      "marathi": "झेंडू",
+      "english": "Marigold",
+      "local": {
+        "Ahilyanagar": null,
+        "Rahata": null,
+        "Rahuri": null,
+        "Alephata": null,
+        "Sangamner": null,
+        "Lasalgaon": {
+          "error": "no_main_table_found"
+        },
+        "Pune": {
+          "error": "no_main_table_found"
+        },
+        "Solapur": {
+          "error": "no_main_table_found"
+        },
+        "Nashik": {
+          "error": "no_main_table_found"
+        },
+        "Mumbai": {
+          "error": "no_main_table_found"
+        }
+      },
+      "outstate": {
+        "Bangalore": {
+          "error": "no_main_table_found"
+        }
+      }
+    },
+    "rose-local": {
+      "marathi": "गुलाब",
+      "english": "Rose",
+      "local": {
+        "Ahilyanagar": null,
+        "Rahata": null,
+        "Rahuri": null,
+        "Alephata": null,
+        "Sangamner": null,
+        "Lasalgaon": {
+          "error": "no_main_table_found"
+        },
+        "Pune": {
+          "error": "no_main_table_found"
+        },
+        "Solapur": {
+          "error": "no_main_table_found"
+        },
+        "Nashik": {
+          "error": "no_main_table_found"
+        },
+        "Mumbai": {
+          "error": "no_main_table_found"
+        }
+      },
+      "outstate": {
+        "Delhi": {
+          "error": "no_main_table_found"
+        },
+        "Bangalore": {
+          "error": "no_main_table_found"
+        }
+      }
+    },
+    "silk-cocoonbh-double-hybr": {
+      "marathi": "रेशीम कोष",
+      "english": "Cocoon",
+      "local": {
+        "Ahilyanagar": null,
+        "Rahata": null,
+        "Rahuri": null,
+        "Alephata": null,
+        "Sangamner": null,
+        "Lasalgaon": {
+          "error": "no_main_table_found"
+        },
+        "Pune": {
+          "error": "no_main_table_found"
+        },
+        "Solapur": {
+          "error": "no_main_table_found"
+        },
+        "Nashik": {
+          "error": "no_main_table_found"
+        }
+      },
+      "outstate": {
+        "Bangalore": {
+          "error": "no_main_table_found"
+        },
+        "Kolar": {
+          "error": "no_main_table_found"
+        }
+      }
     }
   },
-  "timed_out": true,
-  "scrape_end": "2026-02-19T12:03:12.123524+05:30",
-  "duration_seconds": 2115.16,
-  "success_rate": 5.0,
-  "data_checksum": "80f8c6751176ef995e048c105d10af1a",
+  "scrape_end": "2026-02-19T18:17:45.419693+05:30",
+  "duration_seconds": 1965.41,
+  "success_rate": 17.24,
+  "data_checksum": "a11ae430689316b38c2aa9d8f73e51b0",
   "metadata": {
     "scraper_version": "2.0.0",
     "total_crops": 13,
