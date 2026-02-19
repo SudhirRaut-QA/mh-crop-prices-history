@@ -1,0 +1,331 @@
+{
+  "timestamp": "2026-02-19T11:27:56.958828+05:30",
+  "scrape_start": "2026-02-19T11:27:56.958828+05:30",
+  "scrape_count": 80,
+  "success_count": 4,
+  "error_count": 76,
+  "crops": {
+    "onion": {
+      "marathi": "कांदा",
+      "english": "Onion",
+      "local": {
+        "Ahilyanagar": null,
+        "Rahata": null,
+        "Rahuri": null,
+        "Alephata": null,
+        "Sangamner": {
+          "arrival_date": "16/02/2026",
+          "variety": "Red",
+          "min_price": 151,
+          "max_price": 1525,
+          "modal_price": 838,
+          "avg_price": 838,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/onion/maharashtra/sangamner",
+          "scraped_at": "2026-02-19T11:29:44.018410+05:30"
+        },
+        "Lasalgaon": {
+          "arrival_date": "16/02/2026",
+          "variety": "Red",
+          "min_price": 600,
+          "max_price": 1425,
+          "modal_price": 1170,
+          "avg_price": 1170,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/onion/maharashtra/lasalgaon",
+          "scraped_at": "2026-02-19T11:30:10.522492+05:30"
+        },
+        "Pune": {
+          "error": "no_fresh_data",
+          "market": "Pune",
+          "table_rows": 10
+        },
+        "Solapur": {
+          "arrival_date": "16/02/2026",
+          "variety": "Red",
+          "min_price": 100,
+          "max_price": 2050,
+          "modal_price": 800,
+          "avg_price": 800,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/onion/maharashtra/solapur",
+          "scraped_at": "2026-02-19T11:30:54.223906+05:30"
+        },
+        "Nashik": {
+          "error": "no_fresh_data",
+          "market": "Nashik",
+          "table_rows": 4
+        }
+      },
+      "outstate": {
+        "Delhi": {
+          "error": "no_fresh_data",
+          "market": "Delhi",
+          "table_rows": 10
+        },
+        "Indore": {
+          "error": "no_fresh_data",
+          "market": "Indore",
+          "table_rows": 10
+        }
+      }
+    },
+    "soyabean": {
+      "marathi": "सोयाबीन",
+      "english": "Soybean",
+      "local": {
+        "Ahilyanagar": {
+          "arrival_date": "18/02/2026",
+          "variety": "Soyabeans",
+          "min_price": 5120,
+          "max_price": 5120,
+          "modal_price": 5120,
+          "avg_price": 5120,
+          "unit": "Rs/Quintal",
+          "url": "https://www.commodityonline.com/mandiprices/soyabean/maharashtra/ahilyanagar",
+          "scraped_at": "2026-02-19T11:31:57.824192+05:30"
+        },
+        "Rahata": null,
+        "Rahuri": null,
+        "Alephata": null,
+        "Sangamner": null,
+        "Lasalgaon": {
+          "error": "timeout",
+          "market": "Lasalgaon"
+        },
+        "Pune": {
+          "error": "timeout",
+          "market": "Pune"
+        },
+        "Solapur": {
+          "error": "timeout",
+          "market": "Solapur"
+        },
+        "Latur": {
+          "error": "timeout",
+          "market": "Latur"
+        }
+      },
+      "outstate": {
+        "Indore": {
+          "error": "timeout",
+          "market": "Indore"
+        },
+        "Neemuch": {
+          "error": "timeout",
+          "market": "Neemuch"
+        }
+      }
+    },
+    "cotton": {
+      "marathi": "कापूस",
+      "english": "Cotton",
+      "local": {
+        "Ahilyanagar": null,
+        "Rahata": null,
+        "Rahuri": null,
+        "Alephata": null,
+        "Sangamner": null,
+        "Lasalgaon": {
+          "error": "no_fresh_data",
+          "market": "Lasalgaon",
+          "table_rows": 10
+        },
+        "Pune": {
+          "error": "timeout",
+          "market": "Pune"
+        },
+        "Solapur": {
+          "error": "timeout",
+          "market": "Solapur"
+        },
+        "Nagpur": {
+          "error": "no_fresh_data",
+          "market": "Nagpur",
+          "table_rows": 10
+        },
+        "Jalgaon": {
+          "error": "timeout",
+          "market": "Jalgaon"
+        }
+      },
+      "outstate": {
+        "Rajkot": {
+          "error": "timeout",
+          "market": "Rajkot"
+        },
+        "Surat": {
+          "error": "timeout",
+          "market": "Surat"
+        }
+      }
+    },
+    "maize": {
+      "marathi": "मका",
+      "english": "Maize",
+      "local": {
+        "Ahilyanagar": null,
+        "Rahata": null,
+        "Rahuri": null,
+        "Alephata": null,
+        "Sangamner": null,
+        "Lasalgaon": {
+          "error": "timeout",
+          "market": "Lasalgaon"
+        },
+        "Pune": {
+          "error": "timeout",
+          "market": "Pune"
+        },
+        "Solapur": {
+          "error": "timeout",
+          "market": "Solapur"
+        },
+        "Nashik": {
+          "error": "timeout",
+          "market": "Nashik"
+        }
+      },
+      "outstate": {
+        "Delhi": {
+          "error": "timeout",
+          "market": "Delhi"
+        },
+        "Gulbarga": {
+          "error": "timeout",
+          "market": "Gulbarga"
+        }
+      }
+    },
+    "wheat": {
+      "marathi": "गहू",
+      "english": "Wheat",
+      "local": {
+        "Ahilyanagar": null,
+        "Rahata": null,
+        "Rahuri": null,
+        "Alephata": null,
+        "Sangamner": null,
+        "Lasalgaon": {
+          "error": "timeout",
+          "market": "Lasalgaon"
+        },
+        "Pune": {
+          "error": "timeout",
+          "market": "Pune"
+        },
+        "Solapur": {
+          "error": "timeout",
+          "market": "Solapur"
+        }
+      },
+      "outstate": {
+        "Delhi": {
+          "error": "timeout",
+          "market": "Delhi"
+        },
+        "Indore": {
+          "error": "timeout",
+          "market": "Indore"
+        }
+      }
+    },
+    "arhar-turred-gram-whole": {
+      "marathi": "तूर",
+      "english": "Tur",
+      "local": {
+        "Ahilyanagar": null,
+        "Rahata": null,
+        "Rahuri": null,
+        "Alephata": null,
+        "Sangamner": null,
+        "Lasalgaon": {
+          "error": "timeout",
+          "market": "Lasalgaon"
+        },
+        "Pune": {
+          "error": "timeout",
+          "market": "Pune"
+        },
+        "Solapur": {
+          "error": "timeout",
+          "market": "Solapur"
+        },
+        "Latur": {
+          "error": "timeout",
+          "market": "Latur"
+        }
+      },
+      "outstate": {
+        "Gulbarga": {
+          "error": "timeout",
+          "market": "Gulbarga"
+        },
+        "Indore": {
+          "error": "timeout",
+          "market": "Indore"
+        }
+      }
+    },
+    "bengal-gram-gram-whole": {
+      "marathi": "हरभरा",
+      "english": "Harbara",
+      "local": {
+        "Ahilyanagar": null,
+        "Rahata": null,
+        "Rahuri": null,
+        "Alephata": null,
+        "Sangamner": null,
+        "Lasalgaon": {
+          "error": "timeout",
+          "market": "Lasalgaon"
+        },
+        "Pune": {
+          "error": "timeout",
+          "market": "Pune"
+        },
+        "Solapur": {
+          "error": "timeout",
+          "market": "Solapur"
+        },
+        "Latur": {
+          "error": "timeout",
+          "market": "Latur"
+        }
+      },
+      "outstate": {
+        "Indore": {
+          "error": "timeout",
+          "market": "Indore"
+        },
+        "Delhi": {
+          "error": "timeout",
+          "market": "Delhi"
+        }
+      }
+    },
+    "tomato": {
+      "marathi": "टोमॅटो",
+      "english": "Tomato",
+      "local": {
+        "Ahilyanagar": null,
+        "Rahata": null,
+        "Rahuri": null,
+        "Alephata": null,
+        "Sangamner": null
+      },
+      "outstate": {}
+    }
+  },
+  "timed_out": true,
+  "scrape_end": "2026-02-19T12:03:12.123524+05:30",
+  "duration_seconds": 2115.16,
+  "success_rate": 5.0,
+  "data_checksum": "80f8c6751176ef995e048c105d10af1a",
+  "metadata": {
+    "scraper_version": "2.0.0",
+    "total_crops": 13,
+    "total_markets_per_crop": 11,
+    "expected_scrape_count": 145
+  }
+}
